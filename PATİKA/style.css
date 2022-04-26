@@ -1,0 +1,26 @@
+.ofk{
+    text-align: center;
+    color: rgba(255, 0, 0, 0.473);
+}
+
+.orta{
+    text-align: center;
+    font-size: medium;
+    color: purple;
+    
+}
+.anasayfa{
+    background-color: #c0b4b4;
+  
+    font-family: 'Courier New', Courier, monospace;
+}
+.center{
+    text-align: center;
+    list-style-position:inside;
+}
+
+body {
+  background-image: repeating-linear-gradient(to bottom, transparent, transparent 5px, #eaeef3de 5px, #e6eaf0d8 10px),
+                    repeating-linear-gradient(to right, #e4e8eeda, #e2e7f0ea 5px, #f1f4f8da 5px, #c4d5f0ce 10px);
+}
+
